@@ -4,8 +4,9 @@ email: max.bernhard@protonmail.com # email of site's author
 url: https://mxbernhard.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  I'm a freelance journalist and researcher focused on online investigations and open-source intelligence (OSINT) reporting. 
-   
+  I'm a freelance journalist and researcher focused on online investigations and open-source intelligence (OSINT) reporting.
+  
+  a
   Previously I was a staff reporter for The Wall Street Journal and Dow Jones Newswires. 
 
 permalink: /:slug.html
