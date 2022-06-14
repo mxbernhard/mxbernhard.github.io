@@ -1,13 +1,13 @@
 ---
 layout: home
 ---
-I'm a freelance journalist and researcher focused on **open-source intelligence (OSINT)** reporting and online investigations. 
+I'm a freelance journalist and researcher focused on **open-source intelligence (OSINT)** techniques and online investigations. 
 
 Previously, I was a reporter for Dow Jones Newswires and [The Wall Street Journal](https://www.wsj.com/news/author/max-bernhard). 
 
-I’ve reported on far-right and fringe groups, dis- and misinformation, as well as environmental and human rights issues from the UK, Germany, Spain, Hong Kong and Japan. My work has been published in **The Guardian, Deutsche Welle, Wired UK, Vice, WSJ, the BBC** and more.  
+I’ve reported on far-right and fringe groups, dis- and misinformation, as well as environmental and human-rights issues from the UK, Germany, Spain, Hong Kong and Japan. My work has been published in **The Guardian, Deutsche Welle, Wired UK, Vice, the BBC** and more.  
 
-I also [teach](https://dataharvest.eu/wp-content/uploads/2021/10/OSINT-Tool-Box-Part-2.pdf) other journalists how they can use OSINT in their reporting and [consult](https://www.saferworldforthetruth.com/investigations/sardasht-osman) human-rights organisations how to they can apply these methods in their work.
+I also [teach](https://dataharvest.eu/wp-content/uploads/2021/10/OSINT-Tool-Box-Part-2.pdf) other journalists how they can use OSINT in their reporting and [consult](https://www.saferworldforthetruth.com/investigations/sardasht-osman) human-rights organisations how they can apply these methods in their work.
 
 
 **Selected work:**
@@ -16,7 +16,7 @@ I also [teach](https://dataharvest.eu/wp-content/uploads/2021/10/OSINT-Tool-Box-
 
 [Zelenskyy’s fake Russian passport](https://threadreaderapp.com/thread/1526654717249540097) (DPA)
 
-[Inside Osint HK: the secret Hong Kong group tracking protests, the police, and coronavirus](https://www.inputmag.com/features/osint-hk-hong-kong-cyber-sleuths-protests-police-coronavirus) (Input) 
+[Inside Osint HK: the secret Hong Kong group tracking protests, the police, and coronavirus](https://www.inputmag.com/features/osint-hk-hong-kong-cyber-sleuths-protests-police-coronavirus) (Input Magazine) 
 
 
 **Contact:**
