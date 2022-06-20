@@ -21,6 +21,6 @@ I also [teach](https://dataharvest.eu/wp-content/uploads/2021/10/OSINT-Tool-Box-
 
 **Contact:**
 
-[max.bernhard@protonmail.com](mailto:max.bernhard@protonmail.com)
+max.bernhard[@]protonmail.com
 
 [twitter.com/mxbernhard](https://twitter.com/mxbernhard) 
