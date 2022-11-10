@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mxbernhard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://maxbernhard.com
+  * I am mxbernhard (https://keybase.io/mxbernhard) on keybase.
+  * I have a public key with fingerprint 54F6 D4E1 AF26 2E47 09FD  3F0F E0E8 7D61 ACA8 ED04
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fdb311a7a34e22040033b2362b28d4113d56bb93815973e1b6772c97c57b48fa0a",
+      "fingerprint": "54f6d4e1af262e4709fd3f0fe0e87d61aca8ed04",
+      "host": "keybase.io",
+      "key_id": "e0e87d61aca8ed04",
+      "kid": "0101fdb311a7a34e22040033b2362b28d4113d56bb93815973e1b6772c97c57b48fa0a",
+      "uid": "17d61b3cb8d5a5c6616c00745f25c619",
+      "username": "mxbernhard"
+    },
+    "service": {
+      "hostname": "maxbernhard.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1668084967,
+  "expire_in": 157680000,
+  "prev": "95c7fd7e6de80787fb00cafb2414b70e8758047d99dea734d66825b3a3a76939",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbaBNBFE19VI0W9UPQoqgLio9SZ/Y1uwGFokVLiliw8cNomNmZTZe0
+2bi7SStprK2JoigISquIIiqIFBQqYjUopihF/RB/FFF8i7EfYvHxUQSdLdYvP52f
+mXvnnHPPvdy7VZMDwYqXSBq+Nnr5fsXD0ul0wGj99jErEJvuFkJZIcHGL9ZKmevF
+EhYVQgKAAJqUSBBihCWZiSKQAZAkIkqqSESNyhBKVFEJ0SUNKjqSGCQqQqKhI0NB
+RNZMDLBQI5hWMs6clGMlPS6ryKZKZQaxKaoikxHQTSqZwGSAaYiqEBtYYxTInNhi
+uz6DmyPYZbWWzXM8iI3b+wf+P/tOj8tBvwiRDKJRBSuGqkLVAADJiinyCOo+0GVO
+Ercxjm7rIPzdgh0q5GoEns9YBvNH6/cygcF/QbWG3cYFUo7t2Ybdyj9bPC/lhnyy
+tzvlo9sZif3RiRErSfkwOSPDHNeyk0IIcqThWb4wVFUNaLKuohqBdaQsh8UsH6Eg
+nufHr8MyXFJXDGRSxFTKNIA0ZBIADGwSUYYyQf5cFQ3IiOo6ZRhJMuXCokIkLGGk
+6pLfsst2JW0hJIrcJ45zTdeKJ7GXdpiQG7oTnRKoCAYqp07ytywQnDFnYvfw3mm/
+vEalaZ09M2KBwpWqepwfpk8ymD0ZCNth7+o299WS4KKfJyqvHP0F8k/1PYVSZn6k
+oWwfnn7nwquj+puTV0dfaz2z01+W56vXbhwZzG83VoTh+XthuXn/YFflrYYHdZeU
+ybmzi59fXJAdrHhfPmgtXDpvWXTNwNjovqIy7Xh6aTbVv2PzmUjzgWp2O1rsPdJV
+uB6J921q2jn/WOje5b7GWZ1SMdf9eVHtuZGS++lRb3/28YHuR3VB8CnYczbaWSbv
+IhteGMXYj6/iwKobzw6nG9b37j0o/shv+f7VPlSgK8ulm+3Zt3OHO58tjCTGzr0Z
+uvVhdf2pG4kZx0bGnK2/ASbjRWQ=
+=GGhu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mxbernhard
+
+==================================================================
