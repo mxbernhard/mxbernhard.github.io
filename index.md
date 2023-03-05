@@ -1,11 +1,13 @@
 ---
 layout: home
 ---
-I'm a journalist and researcher focused on **open-source intelligence (OSINT)** techniques and online investigations. I currently work as a journalist for [CORRECTIV](https://www.correctiv.org) on their [fact-checkking team](https://correctiv.org/faktencheck/).  
+I'm a journalist and researcher focused on **open-source intelligence (OSINT)** techniques and online investigations. 
+
+I currently work as a journalist for [CORRECTIV](https://www.correctiv.org) on their [fact-checking team](https://correctiv.org/faktencheck/).  
 
 Previously, I worked as a freelancer and as a reporter for Dow Jones Newswires and [The Wall Street Journal](https://www.wsj.com/news/author/max-bernhard). 
 
-I’ve reported on far-right and fringe groups, dis- and misinformation, as well as environmental and human-rights issues from the UK, Germany, Spain, Hong Kong and Japan. My work has been published in **The Guardian, Deutsche Welle, Wired UK, Vice, the BBC** and more.  
+I’ve reported on far-right and fringe groups, dis- and misinformation, as well as environmental and human-rights issues in the UK, Germany, Spain, Hong Kong and Japan. My work has been published in **The Guardian, Deutsche Welle, Wired UK, Vice, the BBC** and more.  
 
 I also [teach](https://dataharvest.eu/wp-content/uploads/2021/10/OSINT-Tool-Box-Part-2.pdf) other journalists how they can use OSINT in their reporting and [consult](https://www.saferworldforthetruth.com/investigations/sardasht-osman) human-rights organisations how they can apply these methods in their work.
 
