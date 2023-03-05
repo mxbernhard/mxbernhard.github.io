@@ -1,9 +1,9 @@
 ---
 layout: home
 ---
-I'm a freelance journalist and researcher focused on **open-source intelligence (OSINT)** techniques and online investigations. 
+I'm a journalist and researcher focused on **open-source intelligence (OSINT)** techniques and online investigations. I currently work as a journalist for [CORRECTIV](https://www.correctiv.org) on their [fact-checkking team](https://correctiv.org/faktencheck/).  
 
-Previously, I was a reporter for Dow Jones Newswires and [The Wall Street Journal](https://www.wsj.com/news/author/max-bernhard). 
+Previously, I worked as a freelancer and as a reporter for Dow Jones Newswires and [The Wall Street Journal](https://www.wsj.com/news/author/max-bernhard). 
 
 I’ve reported on far-right and fringe groups, dis- and misinformation, as well as environmental and human-rights issues from the UK, Germany, Spain, Hong Kong and Japan. My work has been published in **The Guardian, Deutsche Welle, Wired UK, Vice, the BBC** and more.  
 
