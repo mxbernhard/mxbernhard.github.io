@@ -13,13 +13,13 @@ I also [teach](https://dataharvest.eu/wp-content/uploads/2021/10/OSINT-Tool-Box-
 
 **selected work:**
 
-[Inside Doppelganger – How Russia uses EU companies for its propaganda](https://correctiv.org/en/fact-checking-en/2024/07/22/inside-doppelganger-how-russia-uses-eu-companies-for-its-propaganda/)(CORRECTIV)
+[Inside Doppelganger – How Russia uses EU companies for its propaganda](https://correctiv.org/en/fact-checking-en/2024/07/22/inside-doppelganger-how-russia-uses-eu-companies-for-its-propaganda/) (CORRECTIV)
 
-[Hacks and Propaganda: Meet the Two Brothers Bringing Russia’s Cyber War to Europe ](https://correctiv.org/en/fact-checking-en/2024/05/31/hacks-and-propaganda-meet-the-two-brothers-bringing-russias-cyber-war-to-europe/)(CORRECTIV)
+[Hacks and Propaganda: Meet the Two Brothers Bringing Russia’s Cyber War to Europe](https://correctiv.org/en/fact-checking-en/2024/05/31/hacks-and-propaganda-meet-the-two-brothers-bringing-russias-cyber-war-to-europe/) (CORRECTIV)
 
-[Politicians of Germany’s far-right AfD are benefitting from a pro-Russian propaganda campaign. Here is how. ](https://correctiv.org/en/fact-checking-en/2023/07/12/politicians-of-germanys-far-right-afd-are-benefitting-from-a-pro-russian-propaganda-campaign-here-is-how/)(CORRECTIV)
+[Politicians of Germany’s far-right AfD are benefitting from a pro-Russian propaganda campaign. Here is how.](https://correctiv.org/en/fact-checking-en/2023/07/12/politicians-of-germanys-far-right-afd-are-benefitting-from-a-pro-russian-propaganda-campaign-here-is-how/) (CORRECTIV)
 
-[Facebook silent as pro-Kremlin disinformation campaign rages on](https://correctiv.org/en/fact-checking-en/2023/07/12/facebook-silent-as-pro-kremlin-disinformation-campaign-rages-on/)(CORRECTIV)
+[Facebook silent as pro-Kremlin disinformation campaign rages on](https://correctiv.org/en/fact-checking-en/2023/07/12/facebook-silent-as-pro-kremlin-disinformation-campaign-rages-on/) (CORRECTIV)
 
 [Exclusive: Cargo ships dumping oil into the sea go unpunished](https://www.dw.com/en/exclusive-cargo-ships-dumping-oil-into-the-sea-go-unpunished/a-61201989) (DW, The Guardian, Lighthouse Reports)
 
